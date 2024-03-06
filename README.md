@@ -1,16 +1,7 @@
 # for HTml css and script we need to add in public folder index.html file . and put this files in assets folder . for e.g
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
-    <meta
-      name="description"
-      content="Web site created using create-react-app"
-    />
+
+
     <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
     <link href="%PUBLIC_URL%/assets/css/bootstrap.min.css" rel="stylesheet" />
@@ -18,10 +9,7 @@
     <link href="%PUBLIC_URL%/assets/css/select2.min.css" rel="stylesheet" />
     <link href="%PUBLIC_URL%/assets/css/style.css" rel="stylesheet" />
     <title>Your Title here</title>
-  </head>
-  <body >
-    <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
     <script src="%PUBLIC_URL%/assets/js/custom.js"></script>
     <script src="%PUBLIC_URL%/assets/js/select2.min.js"></script> -->
@@ -29,8 +17,7 @@
     <script src="%PUBLIC_URL%/assets/js/bootstrap.bundle.min.js"></script>
     <script src="%PUBLIC_URL%/assets/js/select2.min.js"></script>
     <script src="%PUBLIC_URL%/assets/js/custom.js"></script>
-  </body>
-</html>
+ 
 
 
 
